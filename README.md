@@ -1,5 +1,5 @@
 - 👋 Welcome to my GitHub Profile!
-- I'm Bozhidar, Backend Developer from  🇧🇬 Sofia, Bulgaria!
+- I'm Bozhidar, Backend Developer from Sofia, Bulgaria 🇧🇬!
 - 👀 I’m interested in Salesforce B2C Commerce Cloud, JavaScript/TypeScript, React, Flask, Django!
 
 <!---
